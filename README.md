@@ -1,3 +1,6 @@
+Se trabaja con props, prop-types(se intalan las prop-types en la terminal), elementos y componentes. Todo se ubica en el archivo de la carpeta src/index.js.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
